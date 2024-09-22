@@ -17,7 +17,7 @@
 - <b>Deployment</b> : <img align="center" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>  
 - <b>Collaboration</b> : <img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 
-## :person_with_blond_hair: 문석범 구현기능 및 배운점
+## :man: 문석범 구현기능 및 배운점
 
 ### 네 컷 사진 앨범 CRUD 구현
 웹에서 데이터의 생성, 조회, 수정, 삭제 과정을 구현하며 웹 개발의 핵심 원리와 실제 적용 방법을 체득했습니다.  
