@@ -6,6 +6,9 @@
 네 컷 사진 기록 및 인생 네 컷 프레임 공유 서비스
 ```
 
+### Period : 2022/07/30 ~ 2022/08/23
+### Stacks : Python,Django,AWS EC2,Nginx,카카오지도 api
+
 ## 💡기획배경
  QR을 통해 다운로드 받은 네 컷 사진, 동영상이 항상 갤러리에서 다른 사진들과 섞이는 것이 항상 아쉬웠습니다. 따라서 다운로드 받은 네 컷 사진을 한 공간에서 모아볼 수 있으면 어떨까 하는 생각으로부터 네 컷 사진 앨범의 아이디어가 나오게 되었습니다.   
  노션 링크 [https://six-puppy-7ec.notion.site/Archive-abcee6de877049228af3df93252e905c](https://six-puppy-7ec.notion.site/Archive-abcee6de877049228af3df93252e905c)
