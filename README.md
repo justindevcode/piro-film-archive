@@ -17,12 +17,7 @@
 - <b>Deployment</b> : <img align="center" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>  
 - <b>Collaboration</b> : <img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 
-## 📝 ERD
-<img src="./static/image/erd.png" />
-
-<hr>
-
-## 문석범 구현기능 및 배운점
+## :person_with_blond_hair: 문석범 구현기능 및 배운점
 
 ### 네 컷 사진 앨범 CRUD 구현
 웹에서 데이터의 생성, 조회, 수정, 삭제 과정을 구현하며 웹 개발의 핵심 원리와 실제 적용 방법을 체득했습니다.  
@@ -44,6 +39,11 @@ js의 외부 api들을 사용하며 JavaScript에서 비동기 처리의 복잡�
 
 ### 협업 도구의 중요성 인식과 실천
 프로젝트 진행 중 협업 도구(GitFlow, Slack)를 사용하며 팀원 간의 원활한 커뮤니케이션과 프로젝트 관리의 중요성을 깨달았습니다.  
+
+## 📝 ERD
+<img src="./static/image/erd.png" />
+
+<hr>
 
 ## 🔥 사이트 소개
 
